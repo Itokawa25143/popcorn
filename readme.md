@@ -1,3 +1,2 @@
 # My portfolio
-Test test
-;) 
+Text coming soon
